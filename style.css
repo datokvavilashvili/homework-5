@@ -110,6 +110,11 @@ h3 {
   margin-bottom: 73px;
 }
 
+.card:nth-child(1),
+.card:nth-child(2) {
+  margin-right: 92px;
+}
+
 .more-link {
   display: block;
   text-align: right;
