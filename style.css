@@ -75,6 +75,7 @@ h3 {
 
 .articles-card {
   text-align: center;
+  font-size: 0;
 }
 
 .card {
@@ -87,10 +88,6 @@ h3 {
   font-size: 16px;
 }
 
-.card:nth-child(1),
-.card:nth-child(2) {
-  margin-right: 92px;
-}
 .card img {
   width: 100%;
   height: auto;
